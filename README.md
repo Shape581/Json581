@@ -2,7 +2,7 @@
 
 # :package:・Json581 V1.0.0
 
-# 🔍・Information
+### 🔍・Information
 
 - Vous n'avez pas le droit de copier le code de ce Plugin pour vous l'approprier
 - Si vous partager le Plugin ne vous l'approprier pas
