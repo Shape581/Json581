@@ -1,6 +1,6 @@
 ![GitHub all releases](https://img.shields.io/github/downloads/Shape581/Json581/total)
 
-# :package:・Json581 V1.0.0
+# :package:・Json581
 
 ### 🔍・Information
 
